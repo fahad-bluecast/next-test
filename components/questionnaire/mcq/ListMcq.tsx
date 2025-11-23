@@ -1,3 +1,5 @@
+"use client";
+
 import { ListQuestionnaireApi } from "@/api/questionnaire/api";
 import { UseSubmitOptions } from "@/api/questionnaire/hook";
 import { Button } from "@/components/ui/button";

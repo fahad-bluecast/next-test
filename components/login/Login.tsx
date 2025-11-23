@@ -1,3 +1,4 @@
+"use client";
 import { UseLogin } from "@/api/login/hook";
 import { UseVerifyOtp } from "@/api/verify-otp/hook";
 import { useState } from "react";

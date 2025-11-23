@@ -1,3 +1,5 @@
+"use client";
+
 import z from "zod";
 import LeftSideImage from "../common/LeftSideImage";
 import { useForm } from "react-hook-form";
